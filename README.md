@@ -14,6 +14,12 @@ We met all of these demands by focusing on a development process enabled by open
 
 In this interactive demonstration, we will show how we used open source software and the principles of open design to gain significant efficiencies from the perspectives of a remote instructional designer, on-site subject matter experts, and an educational technologist.
 
+This presentation aligns with at least three of the themes identified in the Call for Proposals:
+
+* Emerging Pedagogies and Designs for Online Learning
+* Expanding Access, Openness and Flexibility
+* New Delivery Tools and Resources for Learning
+
 ### Possible Resources
 
 * Britain, S. \(2004\). A Review of Learning Design: Concept, Specification and Tools. Retrieved from [www.jisc.ac.uk/uploaded\_documents/ACF1ABB.doc](http://www.jisc.ac.uk/uploaded_documents/ACF1ABB.doc)
@@ -22,10 +28,12 @@ In this interactive demonstration, we will show how we used open source software
 * Kvan, T. \(2000\). Collaborative design: what is it? Automation in Construction, 9\(4\), 409–415. doi:10.1016/S0926-5805\(99\)00025-4
 
 * Conole, Gráinne, Thorpe, M., Weller, M., Wilson, P., Nixon, S., & Grace, P. \(2007\). Capturing Practice and Scaffolding Learning Design. Retrieved March 17, 2011, from [http://www.open.ac.uk/openlearn/home.php](http://www.open.ac.uk/openlearn/home.php)
+
 * Conole, Gráinne. \(2008\). Using Compendium as a tool to support the design of learning activities 1, 1–19. Retrieved from [http://e4innovation.com/Papers/Conole\_knowledge\_cartography.pdf](http://e4innovation.com/Papers/Conole_knowledge_cartography.pdf)
 * Conole, Gráinne, & Culver, J. \(2009\). Cloudworks: Social networking for learning design. Australasian Journal of Educational Technology, 25\(5\), 763– 782.
 
 * Friesen, N., & Murray, J. \(2011\). “ Open learning 2.0?” Aligning student, teacher and content for openness in education. Retrieved February 2, 2012, from [http://learningspaces.org/papers/OpenLearning2.0.pdf](http://learningspaces.org/papers/OpenLearning2.0.pdf).
+
 * O’Mahony, S. \(2007\). The governance of open source initiatives: what does it mean to be community managed? Journal of Management & Governance, 11, 139–150.
 
 * Sonnenwald, D. H. \(1996\). Communication roles that support collaboration during the design process. Design Studies, 17\(3\), 277–301.
@@ -33,6 +41,4 @@ In this interactive demonstration, we will show how we used open source software
 ### References
 
 Devries, I. \(2013\). _Open Course Design and Development: A Case Study in the Open Educational Resource University_. Doctor of Philosophy. Simon Fraser University, Burnaby.
-
-
 
