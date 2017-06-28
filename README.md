@@ -1,6 +1,8 @@
 # ICDE2017 {#icde2017}
 
-Flexible Infrastructure to support the Design and Delivery of Online Learning
+Call for proosals is at [http://onlinelearning2017.ca/en/call-for-proposals/](http://onlinelearning2017.ca/en/call-for-proposals/)
+
+### Flexible Infrastructure to support the Design and Delivery of Online Learning
 
 Trinity Western University in Langley, BC has been behind the curve in offering online learning experiences that engage learners in active, transformative learning. We have been hosting our online courses in a customized installation of Moodle \(1.9\) and have not provided enough support for online course development or online teaching and learning. Beginning in 2016, we renewed our commitment to expanding our online offerings with a specific focus on ensuring that our online courses match the ‘whole person’ engagement and transformation that our campus-based students experience.
 
@@ -30,6 +32,7 @@ This presentation aligns with at least three of the themes identified in the Cal
 * Conole, Gráinne, Thorpe, M., Weller, M., Wilson, P., Nixon, S., & Grace, P. \(2007\). Capturing Practice and Scaffolding Learning Design. Retrieved March 17, 2011, from [http://www.open.ac.uk/openlearn/home.php](http://www.open.ac.uk/openlearn/home.php)
 
 * Conole, Gráinne. \(2008\). Using Compendium as a tool to support the design of learning activities 1, 1–19. Retrieved from [http://e4innovation.com/Papers/Conole\_knowledge\_cartography.pdf](http://e4innovation.com/Papers/Conole_knowledge_cartography.pdf)
+
 * Conole, Gráinne, & Culver, J. \(2009\). Cloudworks: Social networking for learning design. Australasian Journal of Educational Technology, 25\(5\), 763– 782.
 
 * Friesen, N., & Murray, J. \(2011\). “ Open learning 2.0?” Aligning student, teacher and content for openness in education. Retrieved February 2, 2012, from [http://learningspaces.org/papers/OpenLearning2.0.pdf](http://learningspaces.org/papers/OpenLearning2.0.pdf).
