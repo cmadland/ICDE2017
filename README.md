@@ -1,6 +1,6 @@
 # ICDE2017 {#icde2017}
 
-Call for proosals is at [http://onlinelearning2017.ca/en/call-for-proposals/](http://onlinelearning2017.ca/en/call-for-proposals/)
+Call for proposals is at [http://onlinelearning2017.ca/en/call-for-proposals/](http://onlinelearning2017.ca/en/call-for-proposals/)
 
 ### Flexible Infrastructure to support the Design and Delivery of Online Learning
 
