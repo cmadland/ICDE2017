@@ -2,7 +2,7 @@
 
 Call for proposals is at [http://onlinelearning2017.ca/en/call-for-proposals/](http://onlinelearning2017.ca/en/call-for-proposals/)
 
-### Flexible Infrastructure to support the Design and Delivery of Online Learning {2}
+### Flexible Infrastructure to support the Design and Delivery of Online Learning {#2}
 
 Trinity Western University in Langley, BC has been behind the curve in offering online learning experiences that engage learners in active, transformative learning. We have been hosting our online courses in a customized installation of Moodle \(1.9\) and have not provided enough support for online course development or online teaching and learning. Beginning in 2016, we renewed our commitment to expanding our online offerings with a specific focus on ensuring that our online courses match the ‘whole person’ engagement and transformation that our campus-based students experience.
 
