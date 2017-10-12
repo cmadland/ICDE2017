@@ -1,4 +1,4 @@
-# ICDE2017 {#icde2017}
+# ICDE2017
 
 Call for proposals is at [http://onlinelearning2017.ca/en/call-for-proposals/](http://onlinelearning2017.ca/en/call-for-proposals/)
 
